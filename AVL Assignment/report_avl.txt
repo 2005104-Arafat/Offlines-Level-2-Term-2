@@ -1,0 +1,13 @@
+operation	time(ms)
+insert	0
+delete	0
+search	0
+trav	0
+total	0
+
+operation	avg_time(ms)
+insert	nan
+delete	nan
+search	nan
+trav	nan
+total   nan
